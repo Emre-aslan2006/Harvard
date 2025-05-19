@@ -1,5 +1,3 @@
-# Harvard
-
 # Task Manager – CS50x Final Project
 
 🎥 **Video Demo**: [Watch it here]([https://www.loom.com/share/8295fd0cf1114d618d2b1efc4fd6883e?sid=8e8d14e3-1401-4711-bcd8-573a3325bed9](https://www.youtube.com/watch?v=Lv6Lu5OUtnY))
